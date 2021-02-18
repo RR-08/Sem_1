@@ -9,8 +9,8 @@ int main(void)
     scanf("%d %d %d",&a,&b,&c);
 
     sum = a+b+c;
-
-    if (sum==180)
+    
+    if (b>0&&a>0&&c>0&&sum==180)
     {
         printf("It is a valid triangle");
     }
