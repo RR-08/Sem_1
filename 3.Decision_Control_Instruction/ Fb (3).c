@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int x1,y,x2,y2,x3,y3;
+//y1 is an already existing function in C so y is used instead
 
 int main(void)
 {
